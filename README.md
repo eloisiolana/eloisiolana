@@ -1,4 +1,4 @@
-<p> Oi! Meu nome é Eloisio, Sou Técnico em Informática com formação em Redes de Computadores, atualmente direcionando<br> minha carreira para a área de programação, com foco no desenvolvimento Front-end. Neste espaço, compartilho projetos e desafios relacionados a essa nova etapa. Seja bem vindo!
+<p> Sou Eloisio, profissional com formação em Redes de Computadores e experiência como Técnico em Informática. Atualmente, estou direcionando minha carreira para a área de programação, com um forte foco no desenvolvimento Front-end. Neste espaço, compartilho projetos e desafios relevantes que contribuem para o aprimoramento das minhas habilidades nesta área.". Seja bem vindo!
 
 
 
