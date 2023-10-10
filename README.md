@@ -3,10 +3,10 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnolana&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnolana&exclude_repo=github-readme-stats,tecnolana.github.io)
 
 
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block">
 
 
 
