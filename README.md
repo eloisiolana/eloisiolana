@@ -1,4 +1,4 @@
-<p> Sou Eloisio, profissional com formação em Redes de Computadores e experiência como Técnico em Informática. Atualmente, estou direcionando minha carreira para a área de programação Full Stack , com foco inicial em Front-end. Neste espaço, compartilho projetos e desafios relevantes que contribuem para o aprimoramento das minhas habilidades nesta área.". Seja bem vindo!
+<p>Sou Eloisio, formado em Redes de Computadores, trabalhei muitos anos como Técnico em Informática em uma instituição de ensino. hoje estudo programação, e neste espaço compartilho projetos e desafios relevantes que contribuem para o aprimoramento das minhas habilidades nesta área.". Seja bem vindo!
 
 
 
