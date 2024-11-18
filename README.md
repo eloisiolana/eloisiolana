@@ -1,4 +1,4 @@
-👩🏻‍💻 Eloisio Lana <br>
+👩 Eloisio Lana <br>
 
 Desenvolvedor FullStack em formação 
 
