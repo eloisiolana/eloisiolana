@@ -1,5 +1,4 @@
-<p>Oi, sou Eloisio, formado em Redes de Computadores e estudante de programação. Nesse espaço compartilho desafios e projetos relevantes que contribuem o aprimoramento das minhas habilidades nessa área." Seja bem vindo!
-
+<p>Oi, sou Eloisio! Formado em Redes de Computadores e atualmente explorando o universo da Programação. Aqui, compartilho desafios e projetos que me ajudam a evoluir e aprender continuamente. Sinta-se à vontade para explorar e acompanhar essa jornada!" 😊
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnolana&show_icons=true&theme=radical) 
