@@ -1,4 +1,4 @@
-<p>Oi, sou Eloisio, formado em Redes de Computadores e estudante de programação, neste espaço compartilho desafios e projetos relevantes que contribuem o aprimoramento das minhas habilidades nessa área." Seja bem vindo!
+<p>Oi, sou Eloisio, formado em Redes de Computadores e estudante de programação. Nesse espaço compartilho desafios e projetos relevantes que contribuem o aprimoramento das minhas habilidades nessa área." Seja bem vindo!
 
 
 
