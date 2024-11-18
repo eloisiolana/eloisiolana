@@ -1,4 +1,4 @@
-<p>Sou Eloisio, formado em Redes de Computadores, trabalhei muitos anos como Técnico em Informática em uma instituição de ensino. hoje estudo programação, e neste espaço compartilho projetos e desafios relevantes que contribuem para o aprimoramento das minhas habilidades nesta área.". Seja bem vindo!
+<p>Oi, sou Eloisio, formado em Redes de Computadores e estudante de programação, neste espaço compartilho desafios e projetos relevantes que contribuem o aprimoramento das minhas habilidades nessa área." Seja bem vindo!
 
 
 
