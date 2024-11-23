@@ -3,7 +3,7 @@
 Desenvolvedor FullStack em formação 
 
 
-<p>Oi, sou Eloisio! Formado em Redes de Computadores e atualmente explorando o universo da Programação. Aqui, compartilho desafios e projetos que me ajudam a evoluir e aprender continuamente. Sinta-se à vontade para explorar e acompanhar essa jornada! 
+<p>Oi, sou Eloisio Lana! Estudante de Programação. Aqui, compartilho desafios e projetos que me ajudam a evoluir e aprender continuamente. Sinta-se à vontade para explorar e acompanhar essa jornada! 
 <hr>
 
 📊 Estatísticas
