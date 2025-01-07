@@ -2,7 +2,7 @@
 
 
 <p>Oi, sou Eloisio, estudande de programação.
-<br> Aqui, compartilho desafios e projetos que me ajudam a evoluir e aprender continuamente. Seja bem vindo! 
+<br>Projetos e desafios que ampliam meu aprendizado em tecnologia. Seja bem-vindo! 
 <hr>
 
 📊 Estatísticas
