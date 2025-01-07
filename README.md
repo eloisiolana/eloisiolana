@@ -1,8 +1,8 @@
  💻 Eloisio Lana 
 
 
-<p>Oi, sou Eloisio, formado em Redes de Computadores e atualmente estudante de Programação.
-<br> Aqui, compartilho desafios e projetos que me ajudam a evoluir e aprender continuamente. Sinta-se à vontade para explorar e acompanhar essa jornada! 
+<p>Oi, sou Eloisio, estudando ded programação.
+<br> Aqui, compartilho desafios e projetos que me ajudam a evoluir e aprender continuamente. Seja bem vindo! 
 <hr>
 
 📊 Estatísticas
