@@ -3,7 +3,7 @@
 
 <p>Oi, sou Eloisio, estudante de programação.
 <br>Projetos e desafios que ampliam meu aprendizado em tecnologia.
-Seja bem-vindo! 
+<br>Seja bem-vindo! 
 <hr>
 
 📊 Estatísticas
