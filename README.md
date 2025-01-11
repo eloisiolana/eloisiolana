@@ -1,7 +1,7 @@
  💻 Eloisio Lana 
 
 
-<p>Oi, sou Eloisio, estudande de programação.
+<p>Oi, sou Eloisio, estudante de programação.
 <br>Projetos e desafios que ampliam meu aprendizado em tecnologia. Seja bem-vindo! 
 <hr>
 
