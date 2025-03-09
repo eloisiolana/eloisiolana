@@ -1,12 +1,10 @@
  💻 Eloisio Lana 
 
+👋 Olá, sou Eloisio, estudante de programação.<br>
+🚀 Compartilho meus projetos e aprendizados por aqui.<br>
+🌱 Vamos evoluir juntos na tecnologia!
 
-<p>Oi, sou Eloisio, estudante de programação.
-<br>Compartilho aqui projetos e desafios que ampliam meu aprendizado em tecnologia.
-<br>Seja bem-vindo! 
-<hr>
-
-📊 Estatísticas
+📊 Estatísticas<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnolana&show_icons=true&theme=radical) 
 
