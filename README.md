@@ -2,7 +2,7 @@
 
 👋 Olá, sou Eloisio, estudante de programação.<br>
 🚀 Compartilho meus projetos e aprendizados por aqui.<br>
-🌱 Vamos evoluir juntos na tecnologia!
+
 
 📊 Estatísticas<br>
 
