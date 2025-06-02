@@ -1,7 +1,7 @@
  💻 Eloisio Lana 
 
 👋 Olá, sou Eloisio, estudante de programação.<br>
-🚀 Compartilho meus projetos e aprendizados por aqui.<br>
+🚀 Compartilho aqui meus projetos e aprendizados.<br>
 
 
 📊 Estatísticas<br>
