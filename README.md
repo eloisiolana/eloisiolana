@@ -6,7 +6,7 @@
 
 📊 Estatísticas<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnolana&show_icons=true&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eloisiolana&show_icons=true&theme=radical) 
 
 
 
